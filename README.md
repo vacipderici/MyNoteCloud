@@ -16,4 +16,4 @@
 - ORM  aracı olarak Entity Framework 
 - Code First yaklaşımı
 - Fake Data Generator
--
+
